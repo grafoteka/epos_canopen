@@ -1,0 +1,42 @@
+hexapodo:
+  # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50
+
+  # Velocity Controllers ---------------------------------------
+  motor_1_to_base_link_joint:
+    type: velocity_controllers/JointVelocityController
+    joint: motor_1_to_base_link_joint
+    pid: {p: 3.0, i: 0.0, d: 0.0}
+    required_drive_mode: 3
+
+  pata2_velocity_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: motor_2_to_base_link_joint
+    pid: {p: 3.0, i: 0.0, d: 0.0}
+    required_drive_mode: 3
+
+  pata3_velocity_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: motor_3_to_base_link_joint
+    pid: {p: 3.0, i: 0.0, d: 0.0}
+    required_drive_mode: 3
+
+  pata4_velocity_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: motor_4_to_base_link_joint
+    pid: {p: 3.0, i: 0.0, d: 0.0}
+    required_drive_mode: 3
+
+  pata5_velocity_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: motor_5_to_base_link_joint
+    pid: {p: 3.0, i: 0.0, d: 0.0}
+    required_drive_mode: 3
+
+  pata6_velocity_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: motor_6_to_base_link_joint
+    pid: {p: 3.0, i: 0.0, d: 0.0}
+    required_drive_mode: 3
