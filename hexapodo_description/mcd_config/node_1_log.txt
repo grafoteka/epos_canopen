@@ -1,0 +1,772 @@
+Load C:\Users\jorge\Desktop\Node 1.dcf ...
+warning 1100: Object [1000]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [1001]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [1005]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [1008]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [100C]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [100D]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [1014]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [1017]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6040]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6041]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6060]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6061]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6062]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6064]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6065]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6067]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6068]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6069]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [606B]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [606C]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6078]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [607A]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [607C]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [607F]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6081]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6083]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6084]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6085]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6086]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6089]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [608A]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [608B]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [608C]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [608D]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [608E]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6098]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [609A]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [60FF]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6402]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [6502]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2000]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2001]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2002]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2004]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2005]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2008]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2009]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2010]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2011]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2012]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2013]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2014]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2017]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2018]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2019]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [201A]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [201B]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2020]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2021]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2022]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2023]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2024]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2025]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2027]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2028]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2029]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [202A]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [202B]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [202C]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2030]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2062]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [206B]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2080]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [2081]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+warning 1100: Object [20F4]: Entry "SubNumber" is not read because object is not structured or ObjType is missing.
+
+Compare read EDS with database...
+warning 1000: Object [1000]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1001]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1003sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1003sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1003sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1003sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1003sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1003sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1005]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1008]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [100C]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [100D]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1010sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1010sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1011sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1011sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1011sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1014]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1016sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1016sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1016sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1017]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1018sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1018sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1018sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1018sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1018sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1020sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1020sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1020sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1200sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1200sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1200sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1400sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1400sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1400sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1401sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1401sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1401sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1402sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1402sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1402sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1403sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1403sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1403sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1600sub8]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1601sub8]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1602sub8]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1603sub8]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1800sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1800sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1800sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1800sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1801sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1801sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1801sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1801sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1802sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1802sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1802sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1802sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1803sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1803sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1803sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1803sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A00sub8]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A01sub8]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A02sub8]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub0]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub1]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub2]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub3]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub4]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub5]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub6]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub7]: Object type differs from selected database  (value: VAR).
+warning 1000: Object [1A03sub8]: Object type differs from selected database  (value: VAR).
+End of comparison.
+
+warning 1000: Object [1000]: Object type differs from selected database  (value: VAR).
+
+Checking EDS...
+Loading Checker...
+Use database 'C:\Program Files (x86)\Vector CANeds 3.6.92\CANchkEDS\v301.codb'
+Use database 'C:\Program Files (x86)\Vector CANeds 3.6.92\CANchkEDS\v302.codb'
+CANchkEDS 2.3.19
+error 41: Entry "EDSVersion" in section [FileInfo] missing or value<4.0.
+error 29: Illegal value in entry "FileVersion" in section [FileInfo].
+error 29: Illegal value in entry "FileRevision" in section [FileInfo].
+error 26: Entry "EDSVersion" in section [FileInfo] not found.
+error 21: Illegal format of entry "CreationTime" in section [FileInfo].
+error 21: Illegal format of entry "CreationDate" in section [FileInfo].
+error 26: Entry "ModificationTime" in section [FileInfo] not found.
+error 26: Entry "ModificationDate" in section [FileInfo] not found.
+error 26: Entry "ModifiedBy" in section [FileInfo] not found.
+error 130: Entry "DefaultValue" in section [1018sub1] differs from value of entry "VendorNumber" in section [DeviceInfo].
+error 130: Entry "DefaultValue" in section [1018sub2] differs from value of entry "ProductNumber" in section [DeviceInfo].
+error 131: Major revision version number of entry "DefaultValue" in section [1018sub3] differs from major revision number of entry "RevisionNumber" in section [DeviceInfo].
+error 34: Description of sub objects in section [1000] is missing.
+error 26: Entry "ObjectType" in section [1000] not found.
+error 27: Entry "DataType" in section [1000] is not allowed.
+error 27: Entry "AccessType" in section [1000] is not allowed.
+error 27: Entry "PDOMapping" in section [1000] is not allowed.
+error 38: Maximal number of sub objects of section [1000] is smaller in database (no value allowed).
+error 14: Section 1000sub0 of structured object [1000] not found.
+error 34: Description of sub objects in section [1001] is missing.
+error 26: Entry "ObjectType" in section [1001] not found.
+error 27: Entry "DataType" in section [1001] is not allowed.
+error 27: Entry "AccessType" in section [1001] is not allowed.
+error 27: Entry "PDOMapping" in section [1001] is not allowed.
+error 38: Maximal number of sub objects of section [1001] is smaller in database (no value allowed).
+error 14: Section 1001sub0 of structured object [1001] not found.
+error 34: Description of sub objects in section [1005] is missing.
+error 26: Entry "ObjectType" in section [1005] not found.
+error 27: Entry "DataType" in section [1005] is not allowed.
+error 27: Entry "AccessType" in section [1005] is not allowed.
+error 27: Entry "DefaultValue" in section [1005] is not allowed.
+error 27: Entry "PDOMapping" in section [1005] is not allowed.
+error 38: Maximal number of sub objects of section [1005] is smaller in database (no value allowed).
+error 14: Section 1005sub0 of structured object [1005] not found.
+error 34: Description of sub objects in section [1008] is missing.
+error 26: Entry "ObjectType" in section [1008] not found.
+error 27: Entry "DataType" in section [1008] is not allowed.
+error 27: Entry "AccessType" in section [1008] is not allowed.
+error 27: Entry "PDOMapping" in section [1008] is not allowed.
+error 38: Maximal number of sub objects of section [1008] is smaller in database (no value allowed).
+error 14: Section 1008sub0 of structured object [1008] not found.
+error 34: Description of sub objects in section [100C] is missing.
+error 26: Entry "ObjectType" in section [100C] not found.
+error 27: Entry "DataType" in section [100C] is not allowed.
+error 27: Entry "AccessType" in section [100C] is not allowed.
+error 27: Entry "DefaultValue" in section [100C] is not allowed.
+error 27: Entry "PDOMapping" in section [100C] is not allowed.
+error 38: Maximal number of sub objects of section [100C] is smaller in database (no value allowed).
+error 14: Section 100Csub0 of structured object [100C] not found.
+error 34: Description of sub objects in section [100D] is missing.
+error 26: Entry "ObjectType" in section [100D] not found.
+error 27: Entry "DataType" in section [100D] is not allowed.
+error 27: Entry "AccessType" in section [100D] is not allowed.
+error 27: Entry "DefaultValue" in section [100D] is not allowed.
+error 27: Entry "PDOMapping" in section [100D] is not allowed.
+error 38: Maximal number of sub objects of section [100D] is smaller in database (no value allowed).
+error 14: Section 100Dsub0 of structured object [100D] not found.
+error 34: Description of sub objects in section [1014] is missing.
+error 26: Entry "ObjectType" in section [1014] not found.
+error 27: Entry "DataType" in section [1014] is not allowed.
+error 27: Entry "AccessType" in section [1014] is not allowed.
+error 27: Entry "DefaultValue" in section [1014] is not allowed.
+error 27: Entry "PDOMapping" in section [1014] is not allowed.
+error 38: Maximal number of sub objects of section [1014] is smaller in database (no value allowed).
+error 14: Section 1014sub0 of structured object [1014] not found.
+error 34: Description of sub objects in section [1017] is missing.
+error 26: Entry "ObjectType" in section [1017] not found.
+error 27: Entry "DataType" in section [1017] is not allowed.
+error 27: Entry "AccessType" in section [1017] is not allowed.
+error 27: Entry "DefaultValue" in section [1017] is not allowed.
+error 27: Entry "PDOMapping" in section [1017] is not allowed.
+error 38: Maximal number of sub objects of section [1017] is smaller in database (no value allowed).
+error 14: Section 1017sub0 of structured object [1017] not found.
+error 34: Description of sub objects in section [6040] is missing.
+error 26: Entry "ObjectType" in section [6040] not found.
+error 27: Entry "DataType" in section [6040] is not allowed.
+error 27: Entry "AccessType" in section [6040] is not allowed.
+warning  4: Access type in section [6040] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6040] is not allowed.
+error 14: Section 6040sub0 of structured object [6040] not found.
+error 34: Description of sub objects in section [6041] is missing.
+error 26: Entry "ObjectType" in section [6041] not found.
+error 27: Entry "DataType" in section [6041] is not allowed.
+error 27: Entry "AccessType" in section [6041] is not allowed.
+error 27: Entry "PDOMapping" in section [6041] is not allowed.
+error 14: Section 6041sub0 of structured object [6041] not found.
+error 34: Description of sub objects in section [6060] is missing.
+error 26: Entry "ObjectType" in section [6060] not found.
+error 27: Entry "DataType" in section [6060] is not allowed.
+error 27: Entry "AccessType" in section [6060] is not allowed.
+error 27: Entry "DefaultValue" in section [6060] is not allowed.
+warning  4: Access type in section [6060] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6060] is not allowed.
+error 14: Section 6060sub0 of structured object [6060] not found.
+error 34: Description of sub objects in section [6061] is missing.
+error 26: Entry "ObjectType" in section [6061] not found.
+error 27: Entry "DataType" in section [6061] is not allowed.
+error 27: Entry "AccessType" in section [6061] is not allowed.
+error 27: Entry "PDOMapping" in section [6061] is not allowed.
+error 14: Section 6061sub0 of structured object [6061] not found.
+error 34: Description of sub objects in section [6062] is missing.
+error 26: Entry "ObjectType" in section [6062] not found.
+error 27: Entry "DataType" in section [6062] is not allowed.
+error 27: Entry "AccessType" in section [6062] is not allowed.
+error 27: Entry "PDOMapping" in section [6062] is not allowed.
+error 14: Section 6062sub0 of structured object [6062] not found.
+error 34: Description of sub objects in section [6064] is missing.
+error 26: Entry "ObjectType" in section [6064] not found.
+error 27: Entry "DataType" in section [6064] is not allowed.
+error 27: Entry "AccessType" in section [6064] is not allowed.
+error 27: Entry "PDOMapping" in section [6064] is not allowed.
+error 14: Section 6064sub0 of structured object [6064] not found.
+error 34: Description of sub objects in section [6065] is missing.
+error 26: Entry "ObjectType" in section [6065] not found.
+error 27: Entry "DataType" in section [6065] is not allowed.
+error 27: Entry "AccessType" in section [6065] is not allowed.
+error 27: Entry "DefaultValue" in section [6065] is not allowed.
+warning  4: Access type in section [6065] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6065] is not allowed.
+error 14: Section 6065sub0 of structured object [6065] not found.
+error 34: Description of sub objects in section [6067] is missing.
+error 26: Entry "ObjectType" in section [6067] not found.
+error 27: Entry "DataType" in section [6067] is not allowed.
+error 27: Entry "AccessType" in section [6067] is not allowed.
+error 27: Entry "DefaultValue" in section [6067] is not allowed.
+error 27: Entry "PDOMapping" in section [6067] is not allowed.
+error 14: Section 6067sub0 of structured object [6067] not found.
+error 34: Description of sub objects in section [6068] is missing.
+error 26: Entry "ObjectType" in section [6068] not found.
+error 27: Entry "DataType" in section [6068] is not allowed.
+error 27: Entry "AccessType" in section [6068] is not allowed.
+error 27: Entry "DefaultValue" in section [6068] is not allowed.
+error 27: Entry "PDOMapping" in section [6068] is not allowed.
+error 14: Section 6068sub0 of structured object [6068] not found.
+error 34: Description of sub objects in section [6069] is missing.
+error 26: Entry "ObjectType" in section [6069] not found.
+error 27: Entry "DataType" in section [6069] is not allowed.
+error 27: Entry "AccessType" in section [6069] is not allowed.
+error 27: Entry "PDOMapping" in section [6069] is not allowed.
+error 14: Section 6069sub0 of structured object [6069] not found.
+error 34: Description of sub objects in section [606B] is missing.
+error 26: Entry "ObjectType" in section [606B] not found.
+error 27: Entry "DataType" in section [606B] is not allowed.
+error 27: Entry "AccessType" in section [606B] is not allowed.
+error 27: Entry "PDOMapping" in section [606B] is not allowed.
+error 14: Section 606Bsub0 of structured object [606B] not found.
+error 34: Description of sub objects in section [606C] is missing.
+error 26: Entry "ObjectType" in section [606C] not found.
+error 27: Entry "DataType" in section [606C] is not allowed.
+error 27: Entry "AccessType" in section [606C] is not allowed.
+error 27: Entry "PDOMapping" in section [606C] is not allowed.
+error 14: Section 606Csub0 of structured object [606C] not found.
+error 34: Description of sub objects in section [6078] is missing.
+error 26: Entry "ObjectType" in section [6078] not found.
+error 27: Entry "DataType" in section [6078] is not allowed.
+error 27: Entry "AccessType" in section [6078] is not allowed.
+error 27: Entry "PDOMapping" in section [6078] is not allowed.
+error 14: Section 6078sub0 of structured object [6078] not found.
+error 34: Description of sub objects in section [607A] is missing.
+error 26: Entry "ObjectType" in section [607A] not found.
+error 27: Entry "DataType" in section [607A] is not allowed.
+error 27: Entry "AccessType" in section [607A] is not allowed.
+warning  4: Access type in section [607A] has no clear mapping direction.
+error 27: Entry "AccessType" in section [607A] is not allowed.
+error 14: Section 607Asub0 of structured object [607A] not found.
+error 34: Description of sub objects in section [607C] is missing.
+error 26: Entry "ObjectType" in section [607C] not found.
+error 27: Entry "DataType" in section [607C] is not allowed.
+error 27: Entry "AccessType" in section [607C] is not allowed.
+error 27: Entry "DefaultValue" in section [607C] is not allowed.
+warning  4: Access type in section [607C] has no clear mapping direction.
+error 27: Entry "AccessType" in section [607C] is not allowed.
+error 14: Section 607Csub0 of structured object [607C] not found.
+error 34: Description of sub objects in section [607F] is missing.
+error 26: Entry "ObjectType" in section [607F] not found.
+error 27: Entry "DataType" in section [607F] is not allowed.
+error 27: Entry "AccessType" in section [607F] is not allowed.
+error 27: Entry "DefaultValue" in section [607F] is not allowed.
+error 27: Entry "PDOMapping" in section [607F] is not allowed.
+error 27: Entry "LowLimit" in section [607F] is not allowed.
+error 27: Entry "HighLimit" in section [607F] is not allowed.
+error 14: Section 607Fsub0 of structured object [607F] not found.
+error 34: Description of sub objects in section [6081] is missing.
+error 26: Entry "ObjectType" in section [6081] not found.
+error 27: Entry "DataType" in section [6081] is not allowed.
+error 27: Entry "AccessType" in section [6081] is not allowed.
+error 27: Entry "DefaultValue" in section [6081] is not allowed.
+warning  4: Access type in section [6081] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6081] is not allowed.
+error 14: Section 6081sub0 of structured object [6081] not found.
+error 34: Description of sub objects in section [6083] is missing.
+error 26: Entry "ObjectType" in section [6083] not found.
+error 27: Entry "DataType" in section [6083] is not allowed.
+error 27: Entry "AccessType" in section [6083] is not allowed.
+error 27: Entry "DefaultValue" in section [6083] is not allowed.
+warning  4: Access type in section [6083] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6083] is not allowed.
+error 14: Section 6083sub0 of structured object [6083] not found.
+error 34: Description of sub objects in section [6084] is missing.
+error 26: Entry "ObjectType" in section [6084] not found.
+error 27: Entry "DataType" in section [6084] is not allowed.
+error 27: Entry "AccessType" in section [6084] is not allowed.
+error 27: Entry "DefaultValue" in section [6084] is not allowed.
+warning  4: Access type in section [6084] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6084] is not allowed.
+error 14: Section 6084sub0 of structured object [6084] not found.
+error 34: Description of sub objects in section [6085] is missing.
+error 26: Entry "ObjectType" in section [6085] not found.
+error 27: Entry "DataType" in section [6085] is not allowed.
+error 27: Entry "AccessType" in section [6085] is not allowed.
+error 27: Entry "DefaultValue" in section [6085] is not allowed.
+warning  4: Access type in section [6085] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6085] is not allowed.
+error 14: Section 6085sub0 of structured object [6085] not found.
+error 34: Description of sub objects in section [6086] is missing.
+error 26: Entry "ObjectType" in section [6086] not found.
+error 27: Entry "DataType" in section [6086] is not allowed.
+error 27: Entry "AccessType" in section [6086] is not allowed.
+error 27: Entry "DefaultValue" in section [6086] is not allowed.
+warning  4: Access type in section [6086] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6086] is not allowed.
+error 14: Section 6086sub0 of structured object [6086] not found.
+error 34: Description of sub objects in section [6089] is missing.
+error 26: Entry "ObjectType" in section [6089] not found.
+error 27: Entry "DataType" in section [6089] is not allowed.
+error 27: Entry "AccessType" in section [6089] is not allowed.
+error 27: Entry "DefaultValue" in section [6089] is not allowed.
+error 27: Entry "PDOMapping" in section [6089] is not allowed.
+error 14: Section 6089sub0 of structured object [6089] not found.
+error 34: Description of sub objects in section [608A] is missing.
+error 26: Entry "ObjectType" in section [608A] not found.
+error 27: Entry "DataType" in section [608A] is not allowed.
+error 27: Entry "AccessType" in section [608A] is not allowed.
+error 27: Entry "DefaultValue" in section [608A] is not allowed.
+error 27: Entry "PDOMapping" in section [608A] is not allowed.
+error 14: Section 608Asub0 of structured object [608A] not found.
+error 34: Description of sub objects in section [608B] is missing.
+error 26: Entry "ObjectType" in section [608B] not found.
+error 27: Entry "DataType" in section [608B] is not allowed.
+error 27: Entry "AccessType" in section [608B] is not allowed.
+error 27: Entry "DefaultValue" in section [608B] is not allowed.
+error 27: Entry "PDOMapping" in section [608B] is not allowed.
+error 14: Section 608Bsub0 of structured object [608B] not found.
+error 34: Description of sub objects in section [608C] is missing.
+error 26: Entry "ObjectType" in section [608C] not found.
+error 27: Entry "DataType" in section [608C] is not allowed.
+error 27: Entry "AccessType" in section [608C] is not allowed.
+error 27: Entry "DefaultValue" in section [608C] is not allowed.
+error 27: Entry "PDOMapping" in section [608C] is not allowed.
+error 14: Section 608Csub0 of structured object [608C] not found.
+error 34: Description of sub objects in section [608D] is missing.
+error 26: Entry "ObjectType" in section [608D] not found.
+error 27: Entry "DataType" in section [608D] is not allowed.
+error 27: Entry "AccessType" in section [608D] is not allowed.
+error 27: Entry "DefaultValue" in section [608D] is not allowed.
+error 27: Entry "PDOMapping" in section [608D] is not allowed.
+error 14: Section 608Dsub0 of structured object [608D] not found.
+error 34: Description of sub objects in section [608E] is missing.
+error 26: Entry "ObjectType" in section [608E] not found.
+error 27: Entry "DataType" in section [608E] is not allowed.
+error 27: Entry "AccessType" in section [608E] is not allowed.
+error 27: Entry "DefaultValue" in section [608E] is not allowed.
+error 27: Entry "PDOMapping" in section [608E] is not allowed.
+error 14: Section 608Esub0 of structured object [608E] not found.
+error 34: Description of sub objects in section [6098] is missing.
+error 26: Entry "ObjectType" in section [6098] not found.
+error 27: Entry "DataType" in section [6098] is not allowed.
+error 27: Entry "AccessType" in section [6098] is not allowed.
+error 27: Entry "DefaultValue" in section [6098] is not allowed.
+warning  4: Access type in section [6098] has no clear mapping direction.
+error 27: Entry "AccessType" in section [6098] is not allowed.
+error 14: Section 6098sub0 of structured object [6098] not found.
+warning  4: Access type in section [6099sub1] has no clear mapping direction.
+warning  4: Access type in section [6099sub2] has no clear mapping direction.
+error 34: Description of sub objects in section [609A] is missing.
+error 26: Entry "ObjectType" in section [609A] not found.
+error 27: Entry "DataType" in section [609A] is not allowed.
+error 27: Entry "AccessType" in section [609A] is not allowed.
+error 27: Entry "DefaultValue" in section [609A] is not allowed.
+warning  4: Access type in section [609A] has no clear mapping direction.
+error 27: Entry "AccessType" in section [609A] is not allowed.
+error 14: Section 609Asub0 of structured object [609A] not found.
+warning  4: Access type in section [60F6sub1] has no clear mapping direction.
+warning  4: Access type in section [60F6sub2] has no clear mapping direction.
+warning  4: Access type in section [60F9sub1] has no clear mapping direction.
+warning  4: Access type in section [60F9sub2] has no clear mapping direction.
+warning  4: Access type in section [60FBsub1] has no clear mapping direction.
+warning  4: Access type in section [60FBsub2] has no clear mapping direction.
+warning  4: Access type in section [60FBsub3] has no clear mapping direction.
+warning  4: Access type in section [60FBsub4] has no clear mapping direction.
+warning  4: Access type in section [60FBsub5] has no clear mapping direction.
+error 34: Description of sub objects in section [60FF] is missing.
+error 26: Entry "ObjectType" in section [60FF] not found.
+error 27: Entry "DataType" in section [60FF] is not allowed.
+error 27: Entry "AccessType" in section [60FF] is not allowed.
+warning  4: Access type in section [60FF] has no clear mapping direction.
+error 27: Entry "AccessType" in section [60FF] is not allowed.
+error 14: Section 60FFsub0 of structured object [60FF] not found.
+error 34: Description of sub objects in section [6402] is missing.
+error 26: Entry "ObjectType" in section [6402] not found.
+error 27: Entry "DataType" in section [6402] is not allowed.
+error 27: Entry "AccessType" in section [6402] is not allowed.
+error 27: Entry "DefaultValue" in section [6402] is not allowed.
+error 27: Entry "PDOMapping" in section [6402] is not allowed.
+error 14: Section 6402sub0 of structured object [6402] not found.
+warning  4: Access type in section [6410sub1] has no clear mapping direction.
+warning  4: Access type in section [6410sub2] has no clear mapping direction.
+warning  4: Access type in section [6410sub4] has no clear mapping direction.
+error 34: Description of sub objects in section [6502] is missing.
+error 26: Entry "ObjectType" in section [6502] not found.
+error 27: Entry "DataType" in section [6502] is not allowed.
+error 27: Entry "AccessType" in section [6502] is not allowed.
+error 27: Entry "PDOMapping" in section [6502] is not allowed.
+error 14: Section 6502sub0 of structured object [6502] not found.
+error 34: Description of sub objects in section [2000] is missing.
+error 26: Entry "ObjectType" in section [2000] not found.
+error 27: Entry "DataType" in section [2000] is not allowed.
+error 27: Entry "AccessType" in section [2000] is not allowed.
+error 27: Entry "DefaultValue" in section [2000] is not allowed.
+error 27: Entry "PDOMapping" in section [2000] is not allowed.
+error 14: Section 2000sub0 of structured object [2000] not found.
+error 34: Description of sub objects in section [2001] is missing.
+error 26: Entry "ObjectType" in section [2001] not found.
+error 27: Entry "DataType" in section [2001] is not allowed.
+error 27: Entry "AccessType" in section [2001] is not allowed.
+error 27: Entry "DefaultValue" in section [2001] is not allowed.
+error 27: Entry "PDOMapping" in section [2001] is not allowed.
+error 27: Entry "LowLimit" in section [2001] is not allowed.
+error 27: Entry "HighLimit" in section [2001] is not allowed.
+error 14: Section 2001sub0 of structured object [2001] not found.
+error 34: Description of sub objects in section [2002] is missing.
+error 26: Entry "ObjectType" in section [2002] not found.
+error 27: Entry "DataType" in section [2002] is not allowed.
+error 27: Entry "AccessType" in section [2002] is not allowed.
+error 27: Entry "DefaultValue" in section [2002] is not allowed.
+error 27: Entry "PDOMapping" in section [2002] is not allowed.
+error 27: Entry "LowLimit" in section [2002] is not allowed.
+error 27: Entry "HighLimit" in section [2002] is not allowed.
+error 14: Section 2002sub0 of structured object [2002] not found.
+error 34: Description of sub objects in section [2004] is missing.
+error 26: Entry "ObjectType" in section [2004] not found.
+error 27: Entry "DataType" in section [2004] is not allowed.
+error 27: Entry "AccessType" in section [2004] is not allowed.
+error 27: Entry "PDOMapping" in section [2004] is not allowed.
+error 14: Section 2004sub0 of structured object [2004] not found.
+error 34: Description of sub objects in section [2005] is missing.
+error 26: Entry "ObjectType" in section [2005] not found.
+error 27: Entry "DataType" in section [2005] is not allowed.
+error 27: Entry "AccessType" in section [2005] is not allowed.
+error 27: Entry "DefaultValue" in section [2005] is not allowed.
+error 27: Entry "PDOMapping" in section [2005] is not allowed.
+error 14: Section 2005sub0 of structured object [2005] not found.
+error 34: Description of sub objects in section [2008] is missing.
+error 26: Entry "ObjectType" in section [2008] not found.
+error 27: Entry "DataType" in section [2008] is not allowed.
+error 27: Entry "AccessType" in section [2008] is not allowed.
+error 27: Entry "DefaultValue" in section [2008] is not allowed.
+error 27: Entry "PDOMapping" in section [2008] is not allowed.
+error 14: Section 2008sub0 of structured object [2008] not found.
+error 34: Description of sub objects in section [2009] is missing.
+error 26: Entry "ObjectType" in section [2009] not found.
+error 27: Entry "DataType" in section [2009] is not allowed.
+error 27: Entry "AccessType" in section [2009] is not allowed.
+error 27: Entry "PDOMapping" in section [2009] is not allowed.
+error 14: Section 2009sub0 of structured object [2009] not found.
+error 34: Description of sub objects in section [2010] is missing.
+error 26: Entry "ObjectType" in section [2010] not found.
+error 27: Entry "DataType" in section [2010] is not allowed.
+error 27: Entry "AccessType" in section [2010] is not allowed.
+error 27: Entry "PDOMapping" in section [2010] is not allowed.
+error 14: Section 2010sub0 of structured object [2010] not found.
+error 34: Description of sub objects in section [2011] is missing.
+error 26: Entry "ObjectType" in section [2011] not found.
+error 27: Entry "DataType" in section [2011] is not allowed.
+error 27: Entry "AccessType" in section [2011] is not allowed.
+error 27: Entry "PDOMapping" in section [2011] is not allowed.
+error 14: Section 2011sub0 of structured object [2011] not found.
+error 34: Description of sub objects in section [2012] is missing.
+error 26: Entry "ObjectType" in section [2012] not found.
+error 27: Entry "DataType" in section [2012] is not allowed.
+error 27: Entry "AccessType" in section [2012] is not allowed.
+error 27: Entry "PDOMapping" in section [2012] is not allowed.
+error 14: Section 2012sub0 of structured object [2012] not found.
+error 34: Description of sub objects in section [2013] is missing.
+error 26: Entry "ObjectType" in section [2013] not found.
+error 27: Entry "DataType" in section [2013] is not allowed.
+error 27: Entry "AccessType" in section [2013] is not allowed.
+error 27: Entry "PDOMapping" in section [2013] is not allowed.
+error 14: Section 2013sub0 of structured object [2013] not found.
+error 34: Description of sub objects in section [2014] is missing.
+error 26: Entry "ObjectType" in section [2014] not found.
+error 27: Entry "DataType" in section [2014] is not allowed.
+error 27: Entry "AccessType" in section [2014] is not allowed.
+error 27: Entry "PDOMapping" in section [2014] is not allowed.
+error 14: Section 2014sub0 of structured object [2014] not found.
+error 34: Description of sub objects in section [2017] is missing.
+error 26: Entry "ObjectType" in section [2017] not found.
+error 27: Entry "DataType" in section [2017] is not allowed.
+error 27: Entry "AccessType" in section [2017] is not allowed.
+error 27: Entry "PDOMapping" in section [2017] is not allowed.
+error 14: Section 2017sub0 of structured object [2017] not found.
+error 34: Description of sub objects in section [2018] is missing.
+error 26: Entry "ObjectType" in section [2018] not found.
+error 27: Entry "DataType" in section [2018] is not allowed.
+error 27: Entry "AccessType" in section [2018] is not allowed.
+error 27: Entry "PDOMapping" in section [2018] is not allowed.
+error 14: Section 2018sub0 of structured object [2018] not found.
+error 34: Description of sub objects in section [2019] is missing.
+error 26: Entry "ObjectType" in section [2019] not found.
+error 27: Entry "DataType" in section [2019] is not allowed.
+error 27: Entry "AccessType" in section [2019] is not allowed.
+error 27: Entry "PDOMapping" in section [2019] is not allowed.
+error 14: Section 2019sub0 of structured object [2019] not found.
+error 34: Description of sub objects in section [201A] is missing.
+error 26: Entry "ObjectType" in section [201A] not found.
+error 27: Entry "DataType" in section [201A] is not allowed.
+error 27: Entry "AccessType" in section [201A] is not allowed.
+error 27: Entry "PDOMapping" in section [201A] is not allowed.
+error 14: Section 201Asub0 of structured object [201A] not found.
+error 34: Description of sub objects in section [201B] is missing.
+error 26: Entry "ObjectType" in section [201B] not found.
+error 27: Entry "DataType" in section [201B] is not allowed.
+error 27: Entry "AccessType" in section [201B] is not allowed.
+error 27: Entry "PDOMapping" in section [201B] is not allowed.
+error 14: Section 201Bsub0 of structured object [201B] not found.
+error 34: Description of sub objects in section [2020] is missing.
+error 26: Entry "ObjectType" in section [2020] not found.
+error 27: Entry "DataType" in section [2020] is not allowed.
+error 27: Entry "AccessType" in section [2020] is not allowed.
+error 27: Entry "PDOMapping" in section [2020] is not allowed.
+error 14: Section 2020sub0 of structured object [2020] not found.
+error 34: Description of sub objects in section [2021] is missing.
+error 26: Entry "ObjectType" in section [2021] not found.
+error 27: Entry "DataType" in section [2021] is not allowed.
+error 27: Entry "AccessType" in section [2021] is not allowed.
+error 27: Entry "PDOMapping" in section [2021] is not allowed.
+error 14: Section 2021sub0 of structured object [2021] not found.
+error 34: Description of sub objects in section [2022] is missing.
+error 26: Entry "ObjectType" in section [2022] not found.
+error 27: Entry "DataType" in section [2022] is not allowed.
+error 27: Entry "AccessType" in section [2022] is not allowed.
+error 27: Entry "PDOMapping" in section [2022] is not allowed.
+error 14: Section 2022sub0 of structured object [2022] not found.
+error 34: Description of sub objects in section [2023] is missing.
+error 26: Entry "ObjectType" in section [2023] not found.
+error 27: Entry "DataType" in section [2023] is not allowed.
+error 27: Entry "AccessType" in section [2023] is not allowed.
+error 27: Entry "PDOMapping" in section [2023] is not allowed.
+error 14: Section 2023sub0 of structured object [2023] not found.
+error 34: Description of sub objects in section [2024] is missing.
+error 26: Entry "ObjectType" in section [2024] not found.
+error 27: Entry "DataType" in section [2024] is not allowed.
+error 27: Entry "AccessType" in section [2024] is not allowed.
+error 27: Entry "PDOMapping" in section [2024] is not allowed.
+error 14: Section 2024sub0 of structured object [2024] not found.
+error 34: Description of sub objects in section [2025] is missing.
+error 26: Entry "ObjectType" in section [2025] not found.
+error 27: Entry "DataType" in section [2025] is not allowed.
+error 27: Entry "AccessType" in section [2025] is not allowed.
+error 27: Entry "PDOMapping" in section [2025] is not allowed.
+error 14: Section 2025sub0 of structured object [2025] not found.
+error 34: Description of sub objects in section [2027] is missing.
+error 26: Entry "ObjectType" in section [2027] not found.
+error 27: Entry "DataType" in section [2027] is not allowed.
+error 27: Entry "AccessType" in section [2027] is not allowed.
+error 27: Entry "PDOMapping" in section [2027] is not allowed.
+error 14: Section 2027sub0 of structured object [2027] not found.
+error 34: Description of sub objects in section [2028] is missing.
+error 26: Entry "ObjectType" in section [2028] not found.
+error 27: Entry "DataType" in section [2028] is not allowed.
+error 27: Entry "AccessType" in section [2028] is not allowed.
+error 27: Entry "PDOMapping" in section [2028] is not allowed.
+error 14: Section 2028sub0 of structured object [2028] not found.
+error 34: Description of sub objects in section [2029] is missing.
+error 26: Entry "ObjectType" in section [2029] not found.
+error 27: Entry "DataType" in section [2029] is not allowed.
+error 27: Entry "AccessType" in section [2029] is not allowed.
+error 27: Entry "PDOMapping" in section [2029] is not allowed.
+error 14: Section 2029sub0 of structured object [2029] not found.
+error 34: Description of sub objects in section [202A] is missing.
+error 26: Entry "ObjectType" in section [202A] not found.
+error 27: Entry "DataType" in section [202A] is not allowed.
+error 27: Entry "AccessType" in section [202A] is not allowed.
+error 27: Entry "PDOMapping" in section [202A] is not allowed.
+error 14: Section 202Asub0 of structured object [202A] not found.
+error 34: Description of sub objects in section [202B] is missing.
+error 26: Entry "ObjectType" in section [202B] not found.
+error 27: Entry "DataType" in section [202B] is not allowed.
+error 27: Entry "AccessType" in section [202B] is not allowed.
+error 27: Entry "PDOMapping" in section [202B] is not allowed.
+error 14: Section 202Bsub0 of structured object [202B] not found.
+error 34: Description of sub objects in section [202C] is missing.
+error 26: Entry "ObjectType" in section [202C] not found.
+error 27: Entry "DataType" in section [202C] is not allowed.
+error 27: Entry "AccessType" in section [202C] is not allowed.
+error 27: Entry "PDOMapping" in section [202C] is not allowed.
+error 14: Section 202Csub0 of structured object [202C] not found.
+error 34: Description of sub objects in section [2030] is missing.
+error 26: Entry "ObjectType" in section [2030] not found.
+error 27: Entry "DataType" in section [2030] is not allowed.
+error 27: Entry "AccessType" in section [2030] is not allowed.
+warning  4: Access type in section [2030] has no clear mapping direction.
+error 27: Entry "AccessType" in section [2030] is not allowed.
+error 14: Section 2030sub0 of structured object [2030] not found.
+error 34: Description of sub objects in section [2062] is missing.
+error 26: Entry "ObjectType" in section [2062] not found.
+error 27: Entry "DataType" in section [2062] is not allowed.
+error 27: Entry "AccessType" in section [2062] is not allowed.
+warning  4: Access type in section [2062] has no clear mapping direction.
+error 27: Entry "AccessType" in section [2062] is not allowed.
+error 14: Section 2062sub0 of structured object [2062] not found.
+error 34: Description of sub objects in section [206B] is missing.
+error 26: Entry "ObjectType" in section [206B] not found.
+error 27: Entry "DataType" in section [206B] is not allowed.
+error 27: Entry "AccessType" in section [206B] is not allowed.
+warning  4: Access type in section [206B] has no clear mapping direction.
+error 27: Entry "AccessType" in section [206B] is not allowed.
+error 14: Section 206Bsub0 of structured object [206B] not found.
+warning  4: Access type in section [2078sub1] has no clear mapping direction.
+error 34: Description of sub objects in section [2080] is missing.
+error 26: Entry "ObjectType" in section [2080] not found.
+error 27: Entry "DataType" in section [2080] is not allowed.
+error 27: Entry "AccessType" in section [2080] is not allowed.
+error 27: Entry "DefaultValue" in section [2080] is not allowed.
+warning  4: Access type in section [2080] has no clear mapping direction.
+error 27: Entry "AccessType" in section [2080] is not allowed.
+error 14: Section 2080sub0 of structured object [2080] not found.
+error 34: Description of sub objects in section [2081] is missing.
+error 26: Entry "ObjectType" in section [2081] not found.
+error 27: Entry "DataType" in section [2081] is not allowed.
+error 27: Entry "AccessType" in section [2081] is not allowed.
+error 27: Entry "DefaultValue" in section [2081] is not allowed.
+warning  4: Access type in section [2081] has no clear mapping direction.
+error 27: Entry "AccessType" in section [2081] is not allowed.
+error 14: Section 2081sub0 of structured object [2081] not found.
+error 34: Description of sub objects in section [20F4] is missing.
+error 26: Entry "ObjectType" in section [20F4] not found.
+error 27: Entry "DataType" in section [20F4] is not allowed.
+error 27: Entry "AccessType" in section [20F4] is not allowed.
+error 27: Entry "PDOMapping" in section [20F4] is not allowed.
+error 14: Section 20F4sub0 of structured object [20F4] not found.
+warning  5: Access type in section [6040] has no clear mapping direction concerning PDO section [1600sub1].
+warning  5: Access type in section [6040] has no clear mapping direction concerning PDO section [1601sub1].
+warning  5: Access type in section [6060] has no clear mapping direction concerning PDO section [1601sub2].
+warning  5: Access type in section [6040] has no clear mapping direction concerning PDO section [1602sub1].
+warning  5: Access type in section [607A] has no clear mapping direction concerning PDO section [1602sub2].
+warning  5: Access type in section [6040] has no clear mapping direction concerning PDO section [1603sub1].
+warning  5: Access type in section [60FF] has no clear mapping direction concerning PDO section [1603sub2].
+warning  1: Unknown or not used section [ToolInfos].
+508 errors and 41 warnings detected!
+Leaving Checker...
+Checking done.
